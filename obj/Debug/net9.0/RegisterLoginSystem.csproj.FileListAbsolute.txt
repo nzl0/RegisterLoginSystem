@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\OOPHomework\RegisterLoginSystem\bin\Debug\net9.0\RegisterLoginSystem.exe
+C:\Users\asus\Desktop\OOPHomework\RegisterLoginSystem\bin\Debug\net9.0\RegisterLoginSystem.deps.json
+C:\Users\asus\Desktop\OOPHomework\RegisterLoginSystem\bin\Debug\net9.0\RegisterLoginSystem.runtimeconfig.json
+C:\Users\asus\Desktop\OOPHomework\RegisterLoginSystem\bin\Debug\net9.0\RegisterLoginSystem.dll
+C:\Users\asus\Desktop\OOPHomework\RegisterLoginSystem\bin\Debug\net9.0\RegisterLoginSystem.pdb
+C:\Users\asus\Desktop\OOPHomework\RegisterLoginSystem\obj\Debug\net9.0\RegisterLoginSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\OOPHomework\RegisterLoginSystem\obj\Debug\net9.0\RegisterLoginSystem.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\OOPHomework\RegisterLoginSystem\obj\Debug\net9.0\RegisterLoginSystem.AssemblyInfo.cs
+C:\Users\asus\Desktop\OOPHomework\RegisterLoginSystem\obj\Debug\net9.0\RegisterLoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\OOPHomework\RegisterLoginSystem\obj\Debug\net9.0\RegisterLoginSystem.dll
+C:\Users\asus\Desktop\OOPHomework\RegisterLoginSystem\obj\Debug\net9.0\refint\RegisterLoginSystem.dll
+C:\Users\asus\Desktop\OOPHomework\RegisterLoginSystem\obj\Debug\net9.0\RegisterLoginSystem.pdb
+C:\Users\asus\Desktop\OOPHomework\RegisterLoginSystem\obj\Debug\net9.0\RegisterLoginSystem.genruntimeconfig.cache
+C:\Users\asus\Desktop\OOPHomework\RegisterLoginSystem\obj\Debug\net9.0\ref\RegisterLoginSystem.dll
